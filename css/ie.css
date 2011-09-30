@@ -1,0 +1,10 @@
+body {
+	background-color: #cbcbcb;
+}
+
+#infinitus_signature {
+	overflow: hidden;
+	padding-bottom: 1em;
+	clear: both;
+	margin-bottom: 1em;
+}

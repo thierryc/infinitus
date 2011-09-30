@@ -1,0 +1,5 @@
+09:49:01: Aucun fichier trouvé dans :/Users/amaury/Desktop/SVN/WPtrunk/wp-content/themes/twentyten
+09:49:01: Aucun fichier trouvé dans :E:\wamp\www\wordpress-beta\wp-content\themes\twentyten
+09:49:01: Poedit n'a trouvé aucun fichier dans les répertoires analysés.
+09:49:01: Certaines entrées du catalogue sont probablement incorrectes.
+09:49:01: La mise à jour du catalogue a échoué. Cliquez sur « Détails >> » pour en savoir plus.

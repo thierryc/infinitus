@@ -1,0 +1,17 @@
+body {
+	background-color: #e1e1e1;
+}
+
+#access li a:hover,
+#access ul ul a:hover {
+	background: #333;
+	color: #fff;
+}
+
+#access ul li.current_page_item a,
+#access ul li.current-menu-ancestor a,
+#access ul li.current-menu-item a,
+#access ul li.current-menu-parent a {
+	color: #4d4d4d !important;
+	background-color: #f3f3f3;
+}
